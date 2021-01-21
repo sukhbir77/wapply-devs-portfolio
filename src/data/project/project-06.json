@@ -1,0 +1,23 @@
+{
+    "id": "project-06",
+    "title": "Game Mod",
+    "category": "Game",
+    "client": "Individual",
+    "imgesBY": "Draxler",
+    "year": "2020",
+    "featured_image": "./images/project-06.jpg",
+    "is_featured": true,
+    "body": [
+        "Created a Mod for a game to help a client achieve their desires, the mod required us to learn about the internal coding scheme of the game and create a masive script accordingly, that utilized the game components itself to make another playable style in the game itself"
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-03.jpg"
+        }
+    ]
+}

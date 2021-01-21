@@ -1,0 +1,23 @@
+{
+    "id": "project-03",
+    "title": "Database upgrade",
+    "category": "Technology",
+    "client": "Geno hall",
+    "imgesBY": "Draxler",
+    "year": "2019",
+    "featured_image": "./images/project-03.jpg",
+    "is_featured": true,
+    "body": [
+        "The client was having problem with redundant data and an outdated system, we had to make a replica of the old database in mongo and transfer all the data to the new database using Talend, which helped setting up the data and easier transfer for the massive amount available. "
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-03.jpg"
+        }
+    ]
+}

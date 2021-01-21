@@ -1,0 +1,24 @@
+{
+    "id": "project-05",
+    "title": "Game development",
+    "category": "Game",
+    "client": "Individual",
+    "imgesBY": "Draxler",
+    "year": "2020",
+    "featured_image": "./images/project-05.jpg",
+    "is_featured": true,
+    "body": [
+        "Worked with a client temporarily in helping them bring their dream game to life, we became a part of the coding team for an individual who was trying to create a game according to his specifications and was expecting to publish it to the market."
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-03.jpg"
+        }
+    ]
+
+}

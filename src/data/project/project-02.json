@@ -1,0 +1,23 @@
+{
+    "id": "project-02",
+    "title": "Financial Portfolio",
+    "category": "Finance",
+    "client": "Individual",
+    "imgesBY": "Draxler",
+    "year": "2019",
+    "featured_image": "./images/project-02.jpg",
+    "is_featured": true,
+    "body": [
+        "The client required a financial portolio related to his succsful investments over the years. We used React.js and charts API to bring to life the succesful work of our client in their portfolio. The website was hosted on completion and on approval of our client and everything was handed over.  "
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-03.jpg"
+        }
+    ]
+}

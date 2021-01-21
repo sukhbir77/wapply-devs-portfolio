@@ -1,0 +1,23 @@
+{
+    "id": "project-04",
+    "title": "Start-up website",
+    "category": "Technology",
+    "client": "Loko Inc",
+    "imgesBY": "Draxler",
+    "year": "2020",
+    "featured_image": "./images/project-04.jpg",
+    "is_featured": true,
+    "body": [
+        "The client was working on a startup and required a brand new website that met their specifications. Using Canvas and design models in js, an animated one page responsive website was created which was epitome of creativity."
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-03.jpg"
+        }
+    ]
+}
