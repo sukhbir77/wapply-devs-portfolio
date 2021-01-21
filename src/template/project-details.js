@@ -3,7 +3,7 @@ import Img from "gatsby-image";
 import Image from "../elements/image";
 import { FiList, FiUser, FiInstagram } from "react-icons/fi";
 import Layout from "../components/layout";
-import {GiDuration} from "@react-icons/all-files/Gi/GiDuration"
+import {GiDuration} from "react-icons/gi"
 
 const ProjectDetails = ({data}) => {
     const projectData = data.projectJson;

@@ -1,16 +1,21 @@
 import React from 'react';
 import { FiMonitor, FiActivity, FiNavigation } from "react-icons/fi";
-import { DiAndroid } from "@react-icons/all-files/Di/DiAndroid";
-import { DiJavascript1 } from "@react-icons/all-files/Di/DiJavascript1"
-import { SiApple } from "@react-icons/all-files/Si/SiApple";
-import { GrHtml5 } from "@react-icons/all-files/Gr/GrHtml5";
-import { DiCss3Full } from "@react-icons/all-files/Di/DiCss3Full"
-import { GrReactjs } from "@react-icons/all-files/Gr/GrReactjs"
-import { SiFlutter } from "@react-icons/all-files/Si/SiFlutter"
-import { FaJava } from "@react-icons/all-files/Fa/FaJava"
-import { SiKotlin } from "@react-icons/all-files/Si/SiKotlin"
-import {SiAndroidstudio} from "@react-icons/all-files/Si/SiAndroidstudio"
-import {FaTabletAlt} from "@react-icons/all-files/Fa/FaTabletAlt"
+
+import { DiAndroid } from "react-icons/di";
+import { DiJavascript1 } from "react-icons/di"
+import { DiCss3Full } from "react-icons/di"
+
+import { SiApple } from "react-icons/si";
+import { SiFlutter } from "react-icons/si"
+
+import { GrHtml5 } from "react-icons/gr";
+import { GrReactjs } from "react-icons/gr"
+
+import { FaJava } from "react-icons/fa"
+import {FaTabletAlt} from "react-icons/fa"
+
+import { SiKotlin } from "react-icons/si"
+import {SiAndroidstudio} from "react-icons/si"
  
 const Service = () => {
     return (
