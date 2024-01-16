@@ -27,4 +27,4 @@ Wapply Devs Portfolio is the digital face of our software company, providing vis
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/Wapply-Devs.git
+   git clone https://github.com/sukhbir77/wapply-devs-portfolio.git
